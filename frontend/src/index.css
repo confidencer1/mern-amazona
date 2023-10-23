@@ -22,3 +22,26 @@ header a {
   text-decoration: none;
   font-weight: bold;
 }
+
+main {
+  padding: 1em;
+}
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.product {
+  border: 1px #404040 solid;
+  margin: 1rem;
+}
+
+.product img {
+  width: 100%;
+  max-width: 400px;
+}
+
+.product-info {
+  padding: 1em;
+}
