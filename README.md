@@ -11,3 +11,6 @@
    2. add product images
    3. render products
    4. style products
+6. Add bootstrap UI Framework
+   1. npm install react-bootstrap bootstrap
+   2. update App.js
