@@ -18,3 +18,8 @@
    1. create Rating component
    2. Create Product component
    3. Use Rating component in Product component
+8. Create Loading and Message Component
+   1. create loading component
+   2. use spinner component
+   3. create message component
+   4. create utils.js to define getError function
