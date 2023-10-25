@@ -43,3 +43,7 @@ main {
 .product-info {
   padding: 1em;
 }
+
+.img-thumbnail {
+  height: 80px;
+}
