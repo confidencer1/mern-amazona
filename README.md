@@ -32,3 +32,7 @@
     1. Create 2 columns
     2. display items list
     3. create action column
+11. Create Signin Screen
+    1. create sign in form
+    2. add email and password
+    3. add signin button
