@@ -67,3 +67,7 @@
     1. create input forms
     2. handle submit
 19. Implement Place Order Screen
+
+20. Implement Place Order Action
+    1. handle place order action
+    2. create order create api
