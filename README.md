@@ -66,3 +66,4 @@
 18. Implement Select Payment Method Screen
     1. create input forms
     2. handle submit
+19. Implement Place Order Screen
