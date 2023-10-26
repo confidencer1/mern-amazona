@@ -30,7 +30,6 @@ export default function CartScreen() {
   };
 
   const removeItemHandler = (item) => {
-    console.log('item');
     ctxDispatch({
       type: 'CART_REMOVE_ITEM',
       payload: item,
