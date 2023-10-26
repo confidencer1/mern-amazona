@@ -55,3 +55,7 @@
     1. create signin api
     2. npm install jsonwebtoken
     3. define generateToken
+16. Create Shipping Screen
+    1. create form inputs
+    2. handle save shipping address
+    3. add checkout wizard bar
