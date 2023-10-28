@@ -66,7 +66,7 @@ export default function PlaceOrderScreen() {
       ctxDispatch({ type: 'CART_CLEAR' });
       dispatch({ type: 'CREATE_SUCCESS' });
       localStorage.removeItem('cartItems');
-      navigate(`/order/${data.order_id}`);
+      navigate(`/order/${data.order._id}`);
     } catch (error) {
       dispatch({ type: 'CREATE_FAIL' });
       toast.error(getError(error));
